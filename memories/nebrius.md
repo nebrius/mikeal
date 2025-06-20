@@ -8,4 +8,4 @@ I remember in Berlin during JSConf EU 2015, when Mikeal took my spouse and I to 
 
 I'll miss him, and I'll remember him.
 
-- Bryan, aka @nebrius
+-Bryan
